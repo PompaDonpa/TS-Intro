@@ -1,0 +1,17 @@
+"use strict";
+var hello = "hello";
+var myAny;
+myAny = "hello";
+myAny = 10;
+var myStr = "hello again";
+var myStr2 = "hello world";
+var num;
+num = 10;
+var num2 = 10;
+var bool = true;
+var bool2;
+bool2 = false;
+var myUnion = "hello";
+myUnion = 10;
+var arr = [1];
+var myTup;
