@@ -101,5 +101,3 @@ console.log(makeTypeArr("hello"))
 console.log(makeTypeArr(1))
 console.log(makeTypeArr(()=>{}))
 console.log(makeTypeArr(()=>{ return 1}))
-
-

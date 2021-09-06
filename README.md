@@ -357,4 +357,3 @@ let makeTypedArr = <something>(arg:something):something[] => {
     return typeArr
 }
 ```
-
